@@ -1,0 +1,1 @@
+const bebidas = ["cerveza", "gaseosas", "aguas"]
