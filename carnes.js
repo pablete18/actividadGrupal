@@ -1,0 +1,1 @@
+carne = ["pollo", "cerdo", "ternera", "conejo"]
